@@ -1,1 +1,1 @@
-In deze folder kunnen alle bronbestanden komen te staan.
+In deze folder kunnen alle bronbestanden komen te staan..
